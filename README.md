@@ -13,6 +13,7 @@ This project has 2 dependencies.
 
 - `numpy` for the maths implementation and writing the algorithms
 - `Scikit-learn` for the data generation and testing.
+- `Pandas` for loading data
 
 You can install these dependencies using
 
