@@ -1,4 +1,3 @@
-
 # K-Nearest Neighbors (KNN)
 K-Nearest Neighbors (KNN) is a non-parametric algorithm used for both classification and regression tasks. It predicts the class or value of a data point by considering its K nearest neighbors in the feature space.
 
@@ -9,3 +8,6 @@ K-Nearest Neighbors (KNN) is a non-parametric algorithm used for both classifica
 4. **Prediction (Regression)**: For regression, KNN predicts the value of the new data point by taking the average (or weighted average) of the values of its K nearest neighbors.
 5. **Parameter K**: The choice of K is critical and can be determined through cross-validation or other optimization techniques.
 
+<p align="center">
+  <img src="https://github.com/HaykDanghyan/machine-learning-algorithms/assets/98834723/c9a98a1b-891d-46b9-aa2f-d721bc20b18d" alt="knn">
+</p>
