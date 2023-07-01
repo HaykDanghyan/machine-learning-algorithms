@@ -4,6 +4,7 @@ This repository contains a collection of Machine Learning algorithms implemented
 
 ## Algorithms implemented
   * **k-Nearest Neighbors**
+  * **Linear Regression**
 
 ---
 
