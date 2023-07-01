@@ -1,6 +1,6 @@
 # Machine Learning Algorithms
 
-This repository contains a collection of Machine Learning algorithms implemented in Python programming languages. Each algorithm is organized in its own directory, providing detailed explanations and code examples.
+This repository contains a collection of Machine Learning algorithms implemented in Python programming language. Each algorithm is organized in its own directory, providing detailed explanations and code examples.
 
 ## Algorithms implemented
   * **k-Nearest Neighbors**
