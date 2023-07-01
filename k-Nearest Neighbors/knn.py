@@ -12,6 +12,7 @@ class KNN:
         self.__X_train = None
         self.__y_train = None
 
+    # Storing the data
     def fit(self, X, y):
         self.__X_train = X
         self.__y_train = y
