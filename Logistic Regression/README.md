@@ -39,3 +39,8 @@ Logistic regression is a popular statistical method used for binary classificati
 - Sensitivity to Outliers: Logistic regression can be sensitive to outliers, which can affect the estimated parameters and decision boundaries.
 
 - Limited to Binary Classification: Logistic regression is specifically designed for binary classification problems and may not be directly applicable to multi-class classification tasks without modifications.
+
+
+<p align="center">
+  <img src="https://www.natasshaselvaraj.com/content/images/2022/11/Picture2-1.png" alt="logreg"/>
+</p>
