@@ -11,7 +11,7 @@ This repository contains a collection of Machine Learning algorithms implemented
 
 ## Installation and usage.
 
-This project has 2 dependencies.
+This project has 3 dependencies.
 
 - `numpy` for the maths implementation and writing the algorithms
 - `Scikit-learn` for the data generation and testing.
