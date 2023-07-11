@@ -28,3 +28,7 @@ The Naive Bayes algorithm is a simple and effective classification algorithm bas
 - Struggles with unseen features.
 - Sensitive to correlated features.
 - Probability estimates may be inaccurate.
+
+<p align="center">
+<img src="https://thinkinfi.com/ezoimgfmt/um0ec8.p3cdn1.secureserver.net/wp-content/uploads/2022/11/naive-bayes-classification-algorithm-in-machine-learning-python-implementation-1024x536.webp?ezimgfmt=rs:1024x536/rscb1/ngcb1/notWebP" alt="naivebayes"/>
+</p>
