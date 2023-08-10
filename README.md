@@ -26,5 +26,5 @@ $ pip install -r requirements.txt
 **NOTE**: Only `numpy` is used for the implementations.
 
 <p align="center">
-  <img src="https://ict.iitk.ac.in/wp-content/uploads/machine-learning-1.jpg" alt="ml"/>
+  <img src="https://www.einfochips.com/blog/wp-content/uploads/2018/11/how-to-develop-machine-learning-applications-for-business-featured.jpg" alt="ml"/>
 </p>
